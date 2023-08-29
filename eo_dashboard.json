@@ -1,0 +1,1619 @@
+{
+	"data": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 15,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 6,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 0
+		},
+		{
+			"ER_COUNT_2021-2023": 99,
+			"ER_COUNT_2022-2024": 159,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 47,
+			"PT_COUNT_2022-2024": 71,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 1
+		},
+		{
+			"ER_COUNT_2021-2023": 316,
+			"ER_COUNT_2022-2024": 358,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 174,
+			"PT_COUNT_2022-2024": 134,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 2
+		},
+		{
+			"ER_COUNT_2021-2023": 44,
+			"ER_COUNT_2022-2024": 53,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 19,
+			"PT_COUNT_2022-2024": 14,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 3
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 4
+		},
+		{
+			"ER_COUNT_2021-2023": 1541,
+			"ER_COUNT_2022-2024": 1415,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 260,
+			"PT_COUNT_2022-2024": 275,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 5
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 9,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 9,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 6
+		},
+		{
+			"ER_COUNT_2021-2023": 90,
+			"ER_COUNT_2022-2024": 92,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 90,
+			"PT_COUNT_2022-2024": 92,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 7
+		},
+		{
+			"ER_COUNT_2021-2023": 111,
+			"ER_COUNT_2022-2024": 105,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 111,
+			"PT_COUNT_2022-2024": 105,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 8
+		},
+		{
+			"ER_COUNT_2021-2023": 3,
+			"ER_COUNT_2022-2024": 6,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 3,
+			"PT_COUNT_2022-2024": 6,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 9
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 1,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 1,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 10
+		},
+		{
+			"ER_COUNT_2021-2023": 296,
+			"ER_COUNT_2022-2024": 287,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 296,
+			"PT_COUNT_2022-2024": 287,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 11
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 78,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 16,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 12
+		},
+		{
+			"ER_COUNT_2021-2023": 414,
+			"ER_COUNT_2022-2024": 431,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 104,
+			"PT_COUNT_2022-2024": 103,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 13
+		},
+		{
+			"ER_COUNT_2021-2023": 586,
+			"ER_COUNT_2022-2024": 552,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 190,
+			"PT_COUNT_2022-2024": 185,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 14
+		},
+		{
+			"ER_COUNT_2021-2023": 38,
+			"ER_COUNT_2022-2024": 39,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 18,
+			"PT_COUNT_2022-2024": 12,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 15
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 16
+		},
+		{
+			"ER_COUNT_2021-2023": 1462,
+			"ER_COUNT_2022-2024": 1400,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 188,
+			"PT_COUNT_2022-2024": 184,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 17
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 130,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 17,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 18
+		},
+		{
+			"ER_COUNT_2021-2023": 585,
+			"ER_COUNT_2022-2024": 482,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 110,
+			"PT_COUNT_2022-2024": 106,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 19
+		},
+		{
+			"ER_COUNT_2021-2023": 663,
+			"ER_COUNT_2022-2024": 541,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 163,
+			"PT_COUNT_2022-2024": 121,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 20
+		},
+		{
+			"ER_COUNT_2021-2023": 105,
+			"ER_COUNT_2022-2024": 179,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 22,
+			"PT_COUNT_2022-2024": 39,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 21
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 9,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 3,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 22
+		},
+		{
+			"ER_COUNT_2021-2023": 1147,
+			"ER_COUNT_2022-2024": 1159,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 205,
+			"PT_COUNT_2022-2024": 214,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 23
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 1222,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 82,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 24
+		},
+		{
+			"ER_COUNT_2021-2023": 3391,
+			"ER_COUNT_2022-2024": 1880,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 247,
+			"PT_COUNT_2022-2024": 151,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 25
+		},
+		{
+			"ER_COUNT_2021-2023": 1396,
+			"ER_COUNT_2022-2024": 1313,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 91,
+			"PT_COUNT_2022-2024": 98,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 26
+		},
+		{
+			"ER_COUNT_2021-2023": 81,
+			"ER_COUNT_2022-2024": 525,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 4,
+			"PT_COUNT_2022-2024": 43,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 27
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 61,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 5,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 28
+		},
+		{
+			"ER_COUNT_2021-2023": 3632,
+			"ER_COUNT_2022-2024": 3499,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 158,
+			"PT_COUNT_2022-2024": 121,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 29
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 912,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 67,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 30
+		},
+		{
+			"ER_COUNT_2021-2023": 851,
+			"ER_COUNT_2022-2024": 1318,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 89,
+			"PT_COUNT_2022-2024": 185,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 31
+		},
+		{
+			"ER_COUNT_2021-2023": 1488,
+			"ER_COUNT_2022-2024": 978,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 159,
+			"PT_COUNT_2022-2024": 157,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 32
+		},
+		{
+			"ER_COUNT_2021-2023": 3,
+			"ER_COUNT_2022-2024": 425,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 2,
+			"PT_COUNT_2022-2024": 73,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 33
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 48,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 5,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 34
+		},
+		{
+			"ER_COUNT_2021-2023": 3158,
+			"ER_COUNT_2022-2024": 1819,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 250,
+			"PT_COUNT_2022-2024": 13,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 35
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 267,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 63,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 36
+		},
+		{
+			"ER_COUNT_2021-2023": 522,
+			"ER_COUNT_2022-2024": 396,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 189,
+			"PT_COUNT_2022-2024": 154,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 37
+		},
+		{
+			"ER_COUNT_2021-2023": 518,
+			"ER_COUNT_2022-2024": 358,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 207,
+			"PT_COUNT_2022-2024": 152,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 38
+		},
+		{
+			"ER_COUNT_2021-2023": 60,
+			"ER_COUNT_2022-2024": 71,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 27,
+			"PT_COUNT_2022-2024": 43,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 39
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 13,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 4,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 40
+		},
+		{
+			"ER_COUNT_2021-2023": 2900,
+			"ER_COUNT_2022-2024": 2895,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 77,
+			"PT_COUNT_2022-2024": 84,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 41
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 212,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 67,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 42
+		},
+		{
+			"ER_COUNT_2021-2023": 594,
+			"ER_COUNT_2022-2024": 518,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 204,
+			"PT_COUNT_2022-2024": 189,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 43
+		},
+		{
+			"ER_COUNT_2021-2023": 464,
+			"ER_COUNT_2022-2024": 342,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 165,
+			"PT_COUNT_2022-2024": 119,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 44
+		},
+		{
+			"ER_COUNT_2021-2023": 39,
+			"ER_COUNT_2022-2024": 29,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 19,
+			"PT_COUNT_2022-2024": 13,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 45
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 46
+		},
+		{
+			"ER_COUNT_2021-2023": 1903,
+			"ER_COUNT_2022-2024": 1899,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 112,
+			"PT_COUNT_2022-2024": 112,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 47
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 155,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 23,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 48
+		},
+		{
+			"ER_COUNT_2021-2023": 620,
+			"ER_COUNT_2022-2024": 935,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 118,
+			"PT_COUNT_2022-2024": 186,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 49
+		},
+		{
+			"ER_COUNT_2021-2023": 1266,
+			"ER_COUNT_2022-2024": 763,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 284,
+			"PT_COUNT_2022-2024": 174,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 50
+		},
+		{
+			"ER_COUNT_2021-2023": 89,
+			"ER_COUNT_2022-2024": 185,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 16,
+			"PT_COUNT_2022-2024": 56,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 51
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 31,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 11,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 52
+		},
+		{
+			"ER_COUNT_2021-2023": 2025,
+			"ER_COUNT_2022-2024": 1931,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 82,
+			"PT_COUNT_2022-2024": 50,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 53
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 130,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 27,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 54
+		},
+		{
+			"ER_COUNT_2021-2023": 782,
+			"ER_COUNT_2022-2024": 402,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 198,
+			"PT_COUNT_2022-2024": 88,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 55
+		},
+		{
+			"ER_COUNT_2021-2023": 866,
+			"ER_COUNT_2022-2024": 664,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 223,
+			"PT_COUNT_2022-2024": 171,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 56
+		},
+		{
+			"ER_COUNT_2021-2023": 168,
+			"ER_COUNT_2022-2024": 473,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 56,
+			"PT_COUNT_2022-2024": 141,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 57
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 205,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 51,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 58
+		},
+		{
+			"ER_COUNT_2021-2023": 2184,
+			"ER_COUNT_2022-2024": 2126,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 23,
+			"PT_COUNT_2022-2024": 22,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 59
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 28,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 28,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 60
+		},
+		{
+			"ER_COUNT_2021-2023": 55,
+			"ER_COUNT_2022-2024": 66,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 55,
+			"PT_COUNT_2022-2024": 66,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 61
+		},
+		{
+			"ER_COUNT_2021-2023": 44,
+			"ER_COUNT_2022-2024": 11,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 44,
+			"PT_COUNT_2022-2024": 11,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 62
+		},
+		{
+			"ER_COUNT_2021-2023": 3,
+			"ER_COUNT_2022-2024": 1,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 3,
+			"PT_COUNT_2022-2024": 1,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 63
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 64
+		},
+		{
+			"ER_COUNT_2021-2023": 398,
+			"ER_COUNT_2022-2024": 394,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 398,
+			"PT_COUNT_2022-2024": 394,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 65
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 6,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 6,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 66
+		},
+		{
+			"ER_COUNT_2021-2023": 5,
+			"ER_COUNT_2022-2024": 23,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 5,
+			"PT_COUNT_2022-2024": 23,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 67
+		},
+		{
+			"ER_COUNT_2021-2023": 32,
+			"ER_COUNT_2022-2024": 44,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 32,
+			"PT_COUNT_2022-2024": 44,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 68
+		},
+		{
+			"ER_COUNT_2021-2023": 69,
+			"ER_COUNT_2022-2024": 28,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 69,
+			"PT_COUNT_2022-2024": 28,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 69
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 9,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 9,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 70
+		},
+		{
+			"ER_COUNT_2021-2023": 394,
+			"ER_COUNT_2022-2024": 390,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 394,
+			"PT_COUNT_2022-2024": 390,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 71
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 7,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 7,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 72
+		},
+		{
+			"ER_COUNT_2021-2023": 29,
+			"ER_COUNT_2022-2024": 28,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 29,
+			"PT_COUNT_2022-2024": 28,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 73
+		},
+		{
+			"ER_COUNT_2021-2023": 37,
+			"ER_COUNT_2022-2024": 30,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 37,
+			"PT_COUNT_2022-2024": 30,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 74
+		},
+		{
+			"ER_COUNT_2021-2023": 5,
+			"ER_COUNT_2022-2024": 5,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 5,
+			"PT_COUNT_2022-2024": 5,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 75
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 1,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 1,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 76
+		},
+		{
+			"ER_COUNT_2021-2023": 429,
+			"ER_COUNT_2022-2024": 429,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 429,
+			"PT_COUNT_2022-2024": 429,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 77
+		}
+	],
+
+	"NL": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 15,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 6,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 0
+		},
+		{
+			"ER_COUNT_2021-2023": 99,
+			"ER_COUNT_2022-2024": 159,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 47,
+			"PT_COUNT_2022-2024": 71,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 1
+		},
+		{
+			"ER_COUNT_2021-2023": 316,
+			"ER_COUNT_2022-2024": 358,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 174,
+			"PT_COUNT_2022-2024": 134,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 2
+		},
+		{
+			"ER_COUNT_2021-2023": 44,
+			"ER_COUNT_2022-2024": 53,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 19,
+			"PT_COUNT_2022-2024": 14,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 3
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 4
+		},
+		{
+			"ER_COUNT_2021-2023": 1541,
+			"ER_COUNT_2022-2024": 1415,
+			"GEO_NAME_EN": "Newfoundland and Labrador",
+			"PT_COUNT_2021-2023": 260,
+			"PT_COUNT_2022-2024": 275,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 5
+		}
+
+	],
+
+	"PE": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 9,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 9,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 6
+		},
+		{
+			"ER_COUNT_2021-2023": 90,
+			"ER_COUNT_2022-2024": 92,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 90,
+			"PT_COUNT_2022-2024": 92,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 7
+		},
+		{
+			"ER_COUNT_2021-2023": 111,
+			"ER_COUNT_2022-2024": 105,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 111,
+			"PT_COUNT_2022-2024": 105,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 8
+		},
+		{
+			"ER_COUNT_2021-2023": 3,
+			"ER_COUNT_2022-2024": 6,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 3,
+			"PT_COUNT_2022-2024": 6,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 9
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 1,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 1,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 10
+		},
+		{
+			"ER_COUNT_2021-2023": 296,
+			"ER_COUNT_2022-2024": 287,
+			"GEO_NAME_EN": "Prince Edward Island",
+			"PT_COUNT_2021-2023": 296,
+			"PT_COUNT_2022-2024": 287,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 11
+		}
+
+	],
+	"NS": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 78,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 16,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 12
+		},
+		{
+			"ER_COUNT_2021-2023": 414,
+			"ER_COUNT_2022-2024": 431,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 104,
+			"PT_COUNT_2022-2024": 103,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 13
+		},
+		{
+			"ER_COUNT_2021-2023": 586,
+			"ER_COUNT_2022-2024": 552,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 190,
+			"PT_COUNT_2022-2024": 185,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 14
+		},
+		{
+			"ER_COUNT_2021-2023": 38,
+			"ER_COUNT_2022-2024": 39,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 18,
+			"PT_COUNT_2022-2024": 12,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 15
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 16
+		},
+		{
+			"ER_COUNT_2021-2023": 1462,
+			"ER_COUNT_2022-2024": 1400,
+			"GEO_NAME_EN": "Nova Scotia",
+			"PT_COUNT_2021-2023": 188,
+			"PT_COUNT_2022-2024": 184,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 17
+		}
+
+	],
+	"NB": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 130,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 17,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 18
+		},
+		{
+			"ER_COUNT_2021-2023": 585,
+			"ER_COUNT_2022-2024": 482,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 110,
+			"PT_COUNT_2022-2024": 106,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 19
+		},
+		{
+			"ER_COUNT_2021-2023": 663,
+			"ER_COUNT_2022-2024": 541,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 163,
+			"PT_COUNT_2022-2024": 121,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 20
+		},
+		{
+			"ER_COUNT_2021-2023": 105,
+			"ER_COUNT_2022-2024": 179,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 22,
+			"PT_COUNT_2022-2024": 39,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 21
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 9,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 3,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 22
+		},
+		{
+			"ER_COUNT_2021-2023": 1147,
+			"ER_COUNT_2022-2024": 1159,
+			"GEO_NAME_EN": "New Brunswick",
+			"PT_COUNT_2021-2023": 205,
+			"PT_COUNT_2022-2024": 214,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 23
+		}
+
+	],
+	"QC": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 1222,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 82,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 24
+		},
+		{
+			"ER_COUNT_2021-2023": 3391,
+			"ER_COUNT_2022-2024": 1880,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 247,
+			"PT_COUNT_2022-2024": 151,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 25
+		},
+		{
+			"ER_COUNT_2021-2023": 1396,
+			"ER_COUNT_2022-2024": 1313,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 91,
+			"PT_COUNT_2022-2024": 98,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 26
+		},
+		{
+			"ER_COUNT_2021-2023": 81,
+			"ER_COUNT_2022-2024": 525,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 4,
+			"PT_COUNT_2022-2024": 43,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 27
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 61,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 5,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 28
+		},
+		{
+			"ER_COUNT_2021-2023": 3632,
+			"ER_COUNT_2022-2024": 3499,
+			"GEO_NAME_EN": "Quebec",
+			"PT_COUNT_2021-2023": 158,
+			"PT_COUNT_2022-2024": 121,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 29
+		}
+
+	],
+	"ON": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 912,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 67,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 30
+		},
+		{
+			"ER_COUNT_2021-2023": 851,
+			"ER_COUNT_2022-2024": 1318,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 89,
+			"PT_COUNT_2022-2024": 185,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 31
+		},
+		{
+			"ER_COUNT_2021-2023": 1488,
+			"ER_COUNT_2022-2024": 978,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 159,
+			"PT_COUNT_2022-2024": 157,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 32
+		},
+		{
+			"ER_COUNT_2021-2023": 3,
+			"ER_COUNT_2022-2024": 425,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 2,
+			"PT_COUNT_2022-2024": 73,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 33
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 48,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 5,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 34
+		},
+		{
+			"ER_COUNT_2021-2023": 3158,
+			"ER_COUNT_2022-2024": 1819,
+			"GEO_NAME_EN": "Ontario",
+			"PT_COUNT_2021-2023": 250,
+			"PT_COUNT_2022-2024": 13,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 35
+		}
+
+	],
+	"MB": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 267,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 63,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 36
+		},
+		{
+			"ER_COUNT_2021-2023": 522,
+			"ER_COUNT_2022-2024": 396,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 189,
+			"PT_COUNT_2022-2024": 154,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 37
+		},
+		{
+			"ER_COUNT_2021-2023": 518,
+			"ER_COUNT_2022-2024": 358,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 207,
+			"PT_COUNT_2022-2024": 152,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 38
+		},
+		{
+			"ER_COUNT_2021-2023": 60,
+			"ER_COUNT_2022-2024": 71,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 27,
+			"PT_COUNT_2022-2024": 43,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 39
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 13,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 4,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 40
+		},
+		{
+			"ER_COUNT_2021-2023": 2900,
+			"ER_COUNT_2022-2024": 2895,
+			"GEO_NAME_EN": "Manitoba",
+			"PT_COUNT_2021-2023": 77,
+			"PT_COUNT_2022-2024": 84,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 41
+		}
+
+	],
+	"SK": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 212,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 67,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 42
+		},
+		{
+			"ER_COUNT_2021-2023": 594,
+			"ER_COUNT_2022-2024": 518,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 204,
+			"PT_COUNT_2022-2024": 189,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 43
+		},
+		{
+			"ER_COUNT_2021-2023": 464,
+			"ER_COUNT_2022-2024": 342,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 165,
+			"PT_COUNT_2022-2024": 119,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 44
+		},
+		{
+			"ER_COUNT_2021-2023": 39,
+			"ER_COUNT_2022-2024": 29,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 19,
+			"PT_COUNT_2022-2024": 13,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 45
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 46
+		},
+		{
+			"ER_COUNT_2021-2023": 1903,
+			"ER_COUNT_2022-2024": 1899,
+			"GEO_NAME_EN": "Saskatchewan",
+			"PT_COUNT_2021-2023": 112,
+			"PT_COUNT_2022-2024": 112,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 47
+		}
+
+	],
+	"AB": [{
+			"ER_COUNT_2021-2023": 620,
+			"ER_COUNT_2022-2024": 935,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 118,
+			"PT_COUNT_2022-2024": 186,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 49
+		},
+		{
+			"ER_COUNT_2021-2023": 1266,
+			"ER_COUNT_2022-2024": 763,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 284,
+			"PT_COUNT_2022-2024": 174,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 50
+		},
+		{
+			"ER_COUNT_2021-2023": 89,
+			"ER_COUNT_2022-2024": 185,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 16,
+			"PT_COUNT_2022-2024": 56,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 51
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 31,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 11,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 52
+		},
+		{
+			"ER_COUNT_2021-2023": 2025,
+			"ER_COUNT_2022-2024": 1931,
+			"GEO_NAME_EN": "Alberta",
+			"PT_COUNT_2021-2023": 82,
+			"PT_COUNT_2022-2024": 50,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 53
+		}
+
+	],
+	"BC": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 130,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 27,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 54
+		},
+		{
+			"ER_COUNT_2021-2023": 782,
+			"ER_COUNT_2022-2024": 402,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 198,
+			"PT_COUNT_2022-2024": 88,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 55
+		},
+		{
+			"ER_COUNT_2021-2023": 866,
+			"ER_COUNT_2022-2024": 664,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 223,
+			"PT_COUNT_2022-2024": 171,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 56
+		},
+		{
+			"ER_COUNT_2021-2023": 168,
+			"ER_COUNT_2022-2024": 473,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 56,
+			"PT_COUNT_2022-2024": 141,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 57
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 205,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 51,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 58
+		},
+		{
+			"ER_COUNT_2021-2023": 2184,
+			"ER_COUNT_2022-2024": 2126,
+			"GEO_NAME_EN": "British Columbia",
+			"PT_COUNT_2021-2023": 23,
+			"PT_COUNT_2022-2024": 22,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 59
+		}
+
+	],
+	"YK": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 28,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 28,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 60
+		},
+		{
+			"ER_COUNT_2021-2023": 55,
+			"ER_COUNT_2022-2024": 66,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 55,
+			"PT_COUNT_2022-2024": 66,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 61
+		},
+		{
+			"ER_COUNT_2021-2023": 44,
+			"ER_COUNT_2022-2024": 11,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 44,
+			"PT_COUNT_2022-2024": 11,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 62
+		},
+		{
+			"ER_COUNT_2021-2023": 3,
+			"ER_COUNT_2022-2024": 1,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 3,
+			"PT_COUNT_2022-2024": 1,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 63
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 0,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 0,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 64
+		},
+		{
+			"ER_COUNT_2021-2023": 398,
+			"ER_COUNT_2022-2024": 394,
+			"GEO_NAME_EN": "Yukon",
+			"PT_COUNT_2021-2023": 398,
+			"PT_COUNT_2022-2024": 394,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 65
+		}
+
+	],
+	"NT": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 6,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 6,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 66
+		},
+		{
+			"ER_COUNT_2021-2023": 5,
+			"ER_COUNT_2022-2024": 23,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 5,
+			"PT_COUNT_2022-2024": 23,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 67
+		},
+		{
+			"ER_COUNT_2021-2023": 32,
+			"ER_COUNT_2022-2024": 44,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 32,
+			"PT_COUNT_2022-2024": 44,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 68
+		},
+		{
+			"ER_COUNT_2021-2023": 69,
+			"ER_COUNT_2022-2024": 28,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 69,
+			"PT_COUNT_2022-2024": 28,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 69
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 9,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 9,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 70
+		},
+		{
+			"ER_COUNT_2021-2023": 394,
+			"ER_COUNT_2022-2024": 390,
+			"GEO_NAME_EN": "Northwest Territories",
+			"PT_COUNT_2021-2023": 394,
+			"PT_COUNT_2022-2024": 390,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 71
+		}
+
+	],
+	"NU": [{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 7,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 7,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very good",
+			"index": 72
+		},
+		{
+			"ER_COUNT_2021-2023": 29,
+			"ER_COUNT_2022-2024": 28,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 29,
+			"PT_COUNT_2022-2024": 28,
+			"RATING_3_STARS": "Good",
+			"RATING_5_STARS": "Good",
+			"index": 73
+		},
+		{
+			"ER_COUNT_2021-2023": 37,
+			"ER_COUNT_2022-2024": 30,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 37,
+			"PT_COUNT_2022-2024": 30,
+			"RATING_3_STARS": "Fair",
+			"RATING_5_STARS": "Moderate",
+			"index": 74
+		},
+		{
+			"ER_COUNT_2021-2023": 5,
+			"ER_COUNT_2022-2024": 5,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 5,
+			"PT_COUNT_2022-2024": 5,
+			"RATING_3_STARS": "Limited",
+			"RATING_5_STARS": "Limited",
+			"index": 75
+		},
+		{
+			"ER_COUNT_2021-2023": "N/A",
+			"ER_COUNT_2022-2024": 1,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": "N/A",
+			"PT_COUNT_2022-2024": 1,
+			"RATING_3_STARS": "N/A",
+			"RATING_5_STARS": "Very limited",
+			"index": 76
+		},
+		{
+			"ER_COUNT_2021-2023": 429,
+			"ER_COUNT_2022-2024": 429,
+			"GEO_NAME_EN": "Nunavut",
+			"PT_COUNT_2021-2023": 429,
+			"PT_COUNT_2022-2024": 429,
+			"RATING_3_STARS": "Undetermined",
+			"RATING_5_STARS": "Undetermined",
+			"index": 77
+		}
+
+	],
+	"schema": {
+		"fields": [{
+				"name": "index",
+				"type": "integer"
+			},
+			{
+				"name": "GEO_NAME_EN",
+				"type": "string"
+			},
+			{
+				"name": "RATING_5_STARS",
+				"type": "string"
+			},
+			{
+				"name": "PT_COUNT_2022-2024",
+				"type": "integer"
+			},
+			{
+				"name": "ER_COUNT_2022-2024",
+				"type": "integer"
+			},
+			{
+				"name": "RATING_3_STARS",
+				"type": "string"
+			},
+			{
+				"name": "PT_COUNT_2021-2023",
+				"type": "string"
+			},
+			{
+				"name": "ER_COUNT_2021-2023",
+				"type": "string"
+			}
+		]
+	}
+
+
+
+}
